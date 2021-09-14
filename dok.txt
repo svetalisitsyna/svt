@@ -1,4 +1,9 @@
 lol
 hi
 hello
+<<<<<<< HEAD
+=======
 lol
+>>>>>>> main
+lol
+hi
